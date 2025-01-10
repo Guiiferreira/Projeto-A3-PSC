@@ -1,5 +1,11 @@
 # Projeto-A3-PSC
 
+##Descrição do projeto
+Aplicativo Java Desktop para gerenciamento de padarias. A aplicação conta com CRUD (Create, Read, Update, Delete) na qual você pode gerenciar os funcionarios e os produtos da padaria.
+
+Projeto desenvolvido para a UC de Programação de Soluções Computacionais.
+
+
 #### > Tela login e tela de cadastro de usuário 
 <img src="https://github.com/Guiiferreira/Projeto-A3---PSC/assets/96597054/6d6c4077-219b-489e-8438-2e7cc113f554" width="400px" height="280px"/>
 <img src="https://github.com/Guiiferreira/Projeto-A3---PSC/assets/96597054/a8aa5d0b-8434-48d3-8fc1-3974d191cb57" width="400px" height="280px" />
