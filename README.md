@@ -1,6 +1,6 @@
 # Projeto-A3-PSC
 
-##Descrição do projeto
+# Descrição do projeto
 Aplicativo Java Desktop para gerenciamento de padarias. A aplicação conta com CRUD (Create, Read, Update, Delete) na qual você pode gerenciar os funcionarios e os produtos da padaria.
 
 Projeto desenvolvido para a UC de Programação de Soluções Computacionais.
